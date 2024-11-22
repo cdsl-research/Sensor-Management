@@ -1,0 +1,2 @@
+# Sensor-Management
+BaseHTTPRequestHandlerを使用したデバイスごとのセンサーデータの管理
