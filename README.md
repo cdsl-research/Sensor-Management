@@ -71,27 +71,12 @@ MPY: soft reboot
 ```
 
 サーバーでの実行結果
-```
-    Starting HTTP server on [サーバーIPアドレス]:[ポート番号]...
-    [クライアントIPアドレス] - - [22/Nov/2024 06:20:44] "POST / HTTP/1.0" 200 -
-    [クライアントIPアドレス] - - [22/Nov/2024 06:20:49] "POST / HTTP/1.0" 200 -
-    [クライアントIPアドレス] - - [22/Nov/2024 06:20:54] "POST / HTTP/1.0" 200 -
-    [クライアントIPアドレス] - - [22/Nov/2024 06:20:59] "POST / HTTP/1.0" 200 -
-    [クライアントIPアドレス] - - [22/Nov/2024 06:21:04] "POST / HTTP/1.0" 200 -
-    [クライアントIPアドレス] - - [22/Nov/2024 06:21:09] "POST / HTTP/1.0" 200 -
-    ...
-```
+
+<img width="533" alt="basereqest" src="https://github.com/user-attachments/assets/6573aed0-9020-43e9-99e1-4b2ab6e51db8">
 
 サーバーでCSVファイルによるクライアントごとのセンサーデータの管理
-```
-    Temperature (C),Pressure (Pa)
-    26.83,1017.922
-    26.84,1017.431
-    26.86,1016.998
-    26.86,1016.45
-    26.87,1016.148
-    26.87,1015.931
-```
+
+<img width="527" alt="temp date" src="https://github.com/user-attachments/assets/9b967670-747c-48e4-bf82-b3e66be14b2e">
 
 詳しい記事は下記のQiitaにあるので参考にしてください
 
